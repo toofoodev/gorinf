@@ -58,9 +58,8 @@
   "monkehavocversion": "Monke Havoc",
   "silliness": "Silliness",
   "BoyDoILoveInformation Public": "BDILI (Old Checker)",
-  "DTAOI": "DTAOI",
+  "DTAOI": "EIOP (Pepsi Dee's Old Checker)",
   "GorillaShop": "Gorilla Shop",
-  "DTASLOI": "DTASLOI",
-  "eiop2": "EIOP The Second",
-  "EIOP": "EIOP",
+  "DTASLOI": "EIOP",
+  "eiop2": "EIOP 2",
 }
