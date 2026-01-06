@@ -12,7 +12,7 @@
   "ElixirMenu": "Elixir",
   "Elixir": "Elixir",
   "VioletPaidUser": "Violet Paid",
-  "EmoteWheel": "Emotes",
+  "FortniteEmoteWheel": "Emotes",
   "MistUser": "Mist",
   "Untitled": "Untitled",
   "void_menu_open": "Void",
