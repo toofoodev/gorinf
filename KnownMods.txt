@@ -60,6 +60,6 @@
   "BoyDoILoveInformation Public": "BDILI (Old Checker)",
   "DTAOI": "EIOP (Pepsi Dee's Old Checker)",
   "GorillaShop": "Gorilla Shop",
-  "DTASLOI": "EIOP",
-  "eiop2": "EIOP 2",
+  "DTASLOI": "EIOP (Pepsi Dee's Old Checker - Public)",
+  "EIOP": "EIOP The Second (Menu Your Using)",
 }
