@@ -27,5 +27,5 @@
   "Euphoric": "Euphoria",
   "CurrentEmote": "Vortex Emotes",
   "Explicit": "Explicit Menu",
-  "ii's_Stupid_Menu": "ii Stupid",
+  "iiMenu": "ii Stupid",
 }
