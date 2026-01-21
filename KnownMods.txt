@@ -36,7 +36,6 @@
   "WhoIsThatMonke Version": "WhoIsThatMonke",
   "GorillaNametags": "GNametags",
   "DeeTags": "Dee Tags",
-  "Boy Do I Love Information": "BDILI (Old Checker)",
   "NametagsPlusPlus": "Nametags++",
   "WalkSimulator": "WalkSim ZlothY Fix",
   "Dingus": "dingus",
@@ -57,9 +56,6 @@
   "gorillastats": "Gorilla Stats",
   "monkehavocversion": "Monke Havoc",
   "silliness": "Silliness",
-  "BoyDoILoveInformation Public": "BDILI (Old Checker)",
-  "DTAOI": "EIOP (Pepsi Dee's Old Checker)",
   "GorillaShop": "Gorilla Shop",
-  "DTASLOI": "EIOP (Pepsi Dee's Old Checker - Public)",
   "EIOP": "EIOP The Second (Menu Your Using)",
 }
