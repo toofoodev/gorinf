@@ -28,4 +28,8 @@
   "CurrentEmote": "Vortex Emotes",
   "Explicit": "Explicit Menu",
   "iiMenu": "ii Stupid",
+  "BoyDoILoveInformation Public": "BDILI (Old Checker)",
+  "DTAOI": "EIOP (Pepsi Dee's Old Checker)",
+  "DTASLOI": "EIOP (Pepsi Dee's Old Checker - Public)",
+  "Boy Do I Love Information": "BDILI (Old Checker)",
 }
